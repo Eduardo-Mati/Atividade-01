@@ -1,1 +1,1 @@
-# Atividade-01
+# Atividade-01 - Resolução de conflitos Git
